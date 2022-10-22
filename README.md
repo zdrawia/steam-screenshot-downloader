@@ -103,6 +103,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Vladimir Leshkevich - asteropheum@gmail.com
+
 Project Link: [https://github.com/zdrawia/steam-screenshot-downloader](https://github.com/zdrawia/steam-screenshot-downloader)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
